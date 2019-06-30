@@ -27,7 +27,7 @@
   
     <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
   
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 </html>
 <body>
@@ -38,11 +38,11 @@
   <div id="header-outer" class="outer">
     <div id="header-title" class="inner">
       <h1 id="logo-wrap">
-        <a href="/" id="logo">大卫之城</a>
+        <a href="index.html" id="logo">大卫之城</a>
       </h1>
       
         <h2 id="subtitle-wrap">
-          <a href="/" id="subtitle">黑夜给了我黑色的眼睛，而我却用它寻找光明！</a>
+          <a href="index.html" id="subtitle">黑夜给了我黑色的眼睛，而我却用它寻找光明！</a>
         </h2>
       
     </div>
@@ -50,7 +50,7 @@
       <nav id="main-nav">
         <a id="main-nav-toggle" class="nav-icon"></a>
         
-          <a class="main-nav-link" href="/">Home</a>
+          <a class="main-nav-link" href="index.html">Home</a>
         
           <a class="main-nav-link" href="/archives">Archives</a>
         
@@ -72,7 +72,7 @@
   
     <article id="post-rt" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2019/06/30/rt/" class="article-date">
+    <a href="2019/06/30/rt/" class="article-date">
   <time datetime="2019-06-30T14:29:02.934Z" itemprop="datePublished">2019-06-30</time>
 </a>
     
@@ -118,7 +118,7 @@
   
     <article id="post-hello-world" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2019/06/30/hello-world/" class="article-date">
+    <a href="2019/06/30/hello-world/" class="article-date">
   <time datetime="2019-06-30T14:18:03.209Z" itemprop="datePublished">2019-06-30</time>
 </a>
     
@@ -130,7 +130,7 @@
         
   
     <h1 itemprop="name">
-      <a class="article-title" href="/2019/06/30/hello-world/">Hello World</a>
+      <a class="article-title" href="2019/06/30/hello-world/">Hello World</a>
     </h1>
   
 
@@ -167,7 +167,7 @@
   
     <article id="post-tswg-2019-06-29" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2019/06/29/tswg-2019-06-29/" class="article-date">
+    <a href="2019/06/29/tswg-2019-06-29/" class="article-date">
   <time datetime="2019-06-29T13:37:15.000Z" itemprop="datePublished">2019-06-29</time>
 </a>
     
@@ -179,7 +179,7 @@
         
   
     <h1 itemprop="name">
-      <a class="article-title" href="/2019/06/29/tswg-2019-06-29/">特赦韦刚，如何？</a>
+      <a class="article-title" href="2019/06/29/tswg-2019-06-29/">特赦韦刚，如何？</a>
     </h1>
   
 
@@ -203,7 +203,7 @@
       <a data-url="http://hjcxsh.cn/2019/06/29/tswg-2019-06-29/" data-id="cjxj4az3l000p04944d89go8s" class="article-share-link">Share</a>
       
       
-  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/韦刚-特赦-皆大欢喜/">韦刚 特赦 皆大欢喜</a></li></ul>
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="tags/韦刚-特赦-皆大欢喜/">韦刚 特赦 皆大欢喜</a></li></ul>
 
     </footer>
   </div>
@@ -214,7 +214,7 @@
   
     <article id="post-markdowngram" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2019/06/28/markdowngram/" class="article-date">
+    <a href="2019/06/28/markdowngram/" class="article-date">
   <time datetime="2019-06-28T12:10:47.000Z" itemprop="datePublished">2019-06-28</time>
 </a>
     
@@ -226,7 +226,7 @@
         
   
     <h1 itemprop="name">
-      <a class="article-title" href="/2019/06/28/markdowngram/">markdown语法</a>
+      <a class="article-title" href="2019/06/28/markdowngram/">markdown语法</a>
     </h1>
   
 
@@ -242,7 +242,7 @@
       <a data-url="http://hjcxsh.cn/2019/06/28/markdowngram/" data-id="cjxj4az33000e04942vpynunc" class="article-share-link">Share</a>
       
       
-  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/markdown-语法/">markdown 语法</a></li></ul>
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="tags/markdown-语法/">markdown 语法</a></li></ul>
 
     </footer>
   </div>
@@ -253,7 +253,7 @@
   
     <article id="post-123liding" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2019/06/28/123liding/" class="article-date">
+    <a href="2019/06/28/123liding/" class="article-date">
   <time datetime="2019-06-28T08:29:53.000Z" itemprop="datePublished">2019-06-28</time>
 </a>
     
@@ -265,7 +265,7 @@
         
   
     <h1 itemprop="name">
-      <a class="article-title" href="/2019/06/28/123liding/">cron 脚本 要用绝对路径才会工作的！</a>
+      <a class="article-title" href="2019/06/28/123liding/">cron 脚本 要用绝对路径才会工作的！</a>
     </h1>
   
 
@@ -286,7 +286,7 @@
       <a data-url="http://hjcxsh.cn/2019/06/28/123liding/" data-id="cjxj4az2a00010494nf92n8bp" class="article-share-link">Share</a>
       
       
-  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/cron-脚本-绝对路径/">cron 脚本 绝对路径</a></li></ul>
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="tags/cron-脚本-绝对路径/">cron 脚本 绝对路径</a></li></ul>
 
     </footer>
   </div>
@@ -297,7 +297,7 @@
   
     <article id="post-test-again-2019-06-28" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2019/06/28/test-again-2019-06-28/" class="article-date">
+    <a href="2019/06/28/test-again-2019-06-28/" class="article-date">
   <time datetime="2019-06-27T16:11:05.000Z" itemprop="datePublished">2019-06-28</time>
 </a>
     
@@ -309,7 +309,7 @@
         
   
     <h1 itemprop="name">
-      <a class="article-title" href="/2019/06/28/test-again-2019-06-28/">test-again-2019-06-28</a>
+      <a class="article-title" href="2019/06/28/test-again-2019-06-28/">test-again-2019-06-28</a>
     </h1>
   
 
@@ -325,7 +325,7 @@
       <a data-url="http://hjcxsh.cn/2019/06/28/test-again-2019-06-28/" data-id="cjxj4az3i000m0494ysl681ha" class="article-share-link">Share</a>
       
       
-  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/测试平台/">测试平台</a></li></ul>
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="tags/测试平台/">测试平台</a></li></ul>
 
     </footer>
   </div>
@@ -336,7 +336,7 @@
   
     <article id="post-test-cron" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2019/06/27/test-cron/" class="article-date">
+    <a href="2019/06/27/test-cron/" class="article-date">
   <time datetime="2019-06-27T13:55:13.000Z" itemprop="datePublished">2019-06-27</time>
 </a>
     
@@ -348,7 +348,7 @@
         
   
     <h1 itemprop="name">
-      <a class="article-title" href="/2019/06/27/test-cron/">test-cron</a>
+      <a class="article-title" href="2019/06/27/test-cron/">test-cron</a>
     </h1>
   
 
@@ -373,7 +373,7 @@
   
     <article id="post-chr" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2019/06/26/chr/" class="article-date">
+    <a href="2019/06/26/chr/" class="article-date">
   <time datetime="2019-06-26T15:34:43.000Z" itemprop="datePublished">2019-06-26</time>
 </a>
     
@@ -385,7 +385,7 @@
         
   
     <h1 itemprop="name">
-      <a class="article-title" href="/2019/06/26/chr/">忏悔录</a>
+      <a class="article-title" href="2019/06/26/chr/">忏悔录</a>
     </h1>
   
 
@@ -439,7 +439,7 @@
   
     <article id="post-s" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2019/06/26/s/" class="article-date">
+    <a href="2019/06/26/s/" class="article-date">
   <time datetime="2019-06-26T15:33:00.000Z" itemprop="datePublished">2019-06-26</time>
 </a>
     
@@ -451,7 +451,7 @@
         
   
     <h1 itemprop="name">
-      <a class="article-title" href="/2019/06/26/s/">一伞比一伞高</a>
+      <a class="article-title" href="2019/06/26/s/">一伞比一伞高</a>
     </h1>
   
 
@@ -488,7 +488,7 @@
   
     <article id="post-fc" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2019/06/26/fc/" class="article-date">
+    <a href="2019/06/26/fc/" class="article-date">
   <time datetime="2019-06-26T15:31:53.000Z" itemprop="datePublished">2019-06-26</time>
 </a>
     
@@ -500,7 +500,7 @@
         
   
     <h1 itemprop="name">
-      <a class="article-title" href="/2019/06/26/fc/">在复仇女神的丘坛上献祭</a>
+      <a class="article-title" href="2019/06/26/fc/">在复仇女神的丘坛上献祭</a>
     </h1>
   
 
@@ -527,7 +527,7 @@
 
   <nav id="page-nav">
     
-    <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><a class="page-number" href="/page/3/">3</a><a class="extend next" rel="next" href="/page/2/">下一页 &raquo;</a>
+    <span class="page-number current">1</span><a class="page-number" href="page/2/">2</a><a class="page-number" href="page/3/">3</a><a class="extend next" rel="next" href="page/2/">下一页 &raquo;</a>
   </nav>
 
 </section>
@@ -541,7 +541,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">标签</h3>
     <div class="widget">
-      <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/cron-脚本-绝对路径/">cron 脚本 绝对路径</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/markdown-语法/">markdown 语法</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/测试平台/">测试平台</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/被删帖-实名-随时准备收快递！/">被删帖 实名 随时准备收快递！</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/韦刚-特赦-皆大欢喜/">韦刚 特赦 皆大欢喜</a></li></ul>
+      <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="tags/cron-脚本-绝对路径/">cron 脚本 绝对路径</a></li><li class="tag-list-item"><a class="tag-list-link" href="tags/markdown-语法/">markdown 语法</a></li><li class="tag-list-item"><a class="tag-list-link" href="tags/测试平台/">测试平台</a></li><li class="tag-list-item"><a class="tag-list-link" href="tags/被删帖-实名-随时准备收快递！/">被删帖 实名 随时准备收快递！</a></li><li class="tag-list-item"><a class="tag-list-link" href="tags/韦刚-特赦-皆大欢喜/">韦刚 特赦 皆大欢喜</a></li></ul>
     </div>
   </div>
 
@@ -551,7 +551,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">标签云</h3>
     <div class="widget tagcloud">
-      <a href="/tags/cron-脚本-绝对路径/" style="font-size: 10px;">cron 脚本 绝对路径</a> <a href="/tags/markdown-语法/" style="font-size: 10px;">markdown 语法</a> <a href="/tags/测试平台/" style="font-size: 10px;">测试平台</a> <a href="/tags/被删帖-实名-随时准备收快递！/" style="font-size: 10px;">被删帖 实名 随时准备收快递！</a> <a href="/tags/韦刚-特赦-皆大欢喜/" style="font-size: 10px;">韦刚 特赦 皆大欢喜</a>
+      <a href="tags/cron-脚本-绝对路径/" style="font-size: 10px;">cron 脚本 绝对路径</a> <a href="tags/markdown-语法/" style="font-size: 10px;">markdown 语法</a> <a href="tags/测试平台/" style="font-size: 10px;">测试平台</a> <a href="tags/被删帖-实名-随时准备收快递！/" style="font-size: 10px;">被删帖 实名 随时准备收快递！</a> <a href="tags/韦刚-特赦-皆大欢喜/" style="font-size: 10px;">韦刚 特赦 皆大欢喜</a>
     </div>
   </div>
 
@@ -560,7 +560,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">归档</h3>
     <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/06/">六月 2019</a></li></ul>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="archives/2019/06/">六月 2019</a></li></ul>
     </div>
   </div>
 
@@ -573,23 +573,23 @@
       <ul>
         
           <li>
-            <a href="/2019/06/30/rt/">(no title)</a>
+            <a href="2019/06/30/rt/">(no title)</a>
           </li>
         
           <li>
-            <a href="/2019/06/30/hello-world/">Hello World</a>
+            <a href="2019/06/30/hello-world/">Hello World</a>
           </li>
         
           <li>
-            <a href="/2019/06/29/tswg-2019-06-29/">特赦韦刚，如何？</a>
+            <a href="2019/06/29/tswg-2019-06-29/">特赦韦刚，如何？</a>
           </li>
         
           <li>
-            <a href="/2019/06/28/markdowngram/">markdown语法</a>
+            <a href="2019/06/28/markdowngram/">markdown语法</a>
           </li>
         
           <li>
-            <a href="/2019/06/28/123liding/">cron 脚本 要用绝对路径才会工作的！</a>
+            <a href="2019/06/28/123liding/">cron 脚本 要用绝对路径才会工作的！</a>
           </li>
         
       </ul>
@@ -614,7 +614,7 @@
     </div>
     <nav id="mobile-nav">
   
-    <a href="/" class="mobile-nav-link">Home</a>
+    <a href="index.html" class="mobile-nav-link">Home</a>
   
     <a href="/archives" class="mobile-nav-link">Archives</a>
   
@@ -624,11 +624,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
 
-  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
-  <script src="/fancybox/jquery.fancybox.pack.js"></script>
+  <link rel="stylesheet" href="fancybox/jquery.fancybox.css">
+  <script src="fancybox/jquery.fancybox.pack.js"></script>
 
 
-<script src="/js/script.js"></script>
+<script src="js/script.js"></script>
 
 
 
