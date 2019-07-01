@@ -11,7 +11,7 @@
 <meta name="keywords" content="电脑技术 幼稚 政治评价">
 <meta property="og:type" content="website">
 <meta property="og:title" content="大卫之城">
-<meta property="og:url" content="http://hjcxsh.cn/index.html">
+<meta property="og:url" content="hjcxsh.cn/index.html">
 <meta property="og:site_name" content="大卫之城">
 <meta property="og:description" content="电脑技术 幼稚 政治评价">
 <meta property="og:locale" content="zh-CN">
@@ -62,7 +62,7 @@
         <a id="nav-search-btn" class="nav-icon" title="搜索"></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://hjcxsh.cn"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="hjcxsh.cn"></form>
       </div>
     </div>
   </div>
@@ -106,7 +106,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hjcxsh.cn/2019/06/30/rt/" data-id="cjxj4az3a000i0494fywy33k9" class="article-share-link">Share</a>
+      <a data-url="hjcxsh.cn/2019/06/30/rt/" data-id="cjxj4az3a000i0494fywy33k9" class="article-share-link">Share</a>
       
       
     </footer>
@@ -155,7 +155,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hjcxsh.cn/2019/06/30/hello-world/" data-id="cjxj4az2u000a0494ojgx3ptc" class="article-share-link">Share</a>
+      <a data-url="hjcxsh.cn/2019/06/30/hello-world/" data-id="cjxj4az2u000a0494ojgx3ptc" class="article-share-link">Share</a>
       
       
     </footer>
@@ -200,7 +200,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hjcxsh.cn/2019/06/29/tswg-2019-06-29/" data-id="cjxj4az3l000p04944d89go8s" class="article-share-link">Share</a>
+      <a data-url="hjcxsh.cn/2019/06/29/tswg-2019-06-29/" data-id="cjxj4az3l000p04944d89go8s" class="article-share-link">Share</a>
       
       
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="tags/韦刚-特赦-皆大欢喜/">韦刚 特赦 皆大欢喜</a></li></ul>
@@ -239,7 +239,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hjcxsh.cn/2019/06/28/markdowngram/" data-id="cjxj4az33000e04942vpynunc" class="article-share-link">Share</a>
+      <a data-url="hjcxsh.cn/2019/06/28/markdowngram/" data-id="cjxj4az33000e04942vpynunc" class="article-share-link">Share</a>
       
       
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="tags/markdown-语法/">markdown 语法</a></li></ul>
@@ -283,7 +283,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hjcxsh.cn/2019/06/28/123liding/" data-id="cjxj4az2a00010494nf92n8bp" class="article-share-link">Share</a>
+      <a data-url="hjcxsh.cn/2019/06/28/123liding/" data-id="cjxj4az2a00010494nf92n8bp" class="article-share-link">Share</a>
       
       
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="tags/cron-脚本-绝对路径/">cron 脚本 绝对路径</a></li></ul>
@@ -322,7 +322,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hjcxsh.cn/2019/06/28/test-again-2019-06-28/" data-id="cjxj4az3i000m0494ysl681ha" class="article-share-link">Share</a>
+      <a data-url="hjcxsh.cn/2019/06/28/test-again-2019-06-28/" data-id="cjxj4az3i000m0494ysl681ha" class="article-share-link">Share</a>
       
       
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="tags/测试平台/">测试平台</a></li></ul>
@@ -361,7 +361,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hjcxsh.cn/2019/06/27/test-cron/" data-id="cjxj4az3j000n0494cvuiur4r" class="article-share-link">Share</a>
+      <a data-url="hjcxsh.cn/2019/06/27/test-cron/" data-id="cjxj4az3j000n0494cvuiur4r" class="article-share-link">Share</a>
       
       
     </footer>
@@ -427,7 +427,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hjcxsh.cn/2019/06/26/chr/" data-id="cjxj4az3v000v0494i0fbgxpf" class="article-share-link">Share</a>
+      <a data-url="hjcxsh.cn/2019/06/26/chr/" data-id="cjxj4az3v000v0494i0fbgxpf" class="article-share-link">Share</a>
       
       
     </footer>
@@ -476,7 +476,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hjcxsh.cn/2019/06/26/s/" data-id="cjxj4az3d000j0494rop1ea4r" class="article-share-link">Share</a>
+      <a data-url="hjcxsh.cn/2019/06/26/s/" data-id="cjxj4az3d000j0494rop1ea4r" class="article-share-link">Share</a>
       
       
     </footer>
@@ -513,7 +513,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://hjcxsh.cn/2019/06/26/fc/" data-id="cjxj4az2n000504945jo1rixw" class="article-share-link">Share</a>
+      <a data-url="hjcxsh.cn/2019/06/26/fc/" data-id="cjxj4az2n000504945jo1rixw" class="article-share-link">Share</a>
       
       
     </footer>
